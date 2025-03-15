@@ -10,7 +10,7 @@ This is a **Dice Roll Simulator** built as a capstone project to showcase my ski
  Display the rolled number dynamically
  Track previous rolls in a list
 
-##  Technologies Used
+##  Built With
  **HTML** – For structuring the webpage
 **CSS & Bootstrap** – For styling and responsive design
 **JavaScript** – For handling dice roll logic and UI updates
@@ -25,6 +25,12 @@ This is a **Dice Roll Simulator** built as a capstone project to showcase my ski
 
 ##  About Me
 Hello! I'm **[Adrian Warfield]**, a entry-level web developer learning **HTML, CSS, JavaScript, and Bootstrap**. This project is part of my capstone to demonstrate my skills. I enjoy building interactive web applications and am excited to continue learning.
+
+## Acknowledgement
+w3schools
+getbootstrap
+
+
 
 ##  Contact
  Email: [adrian.warfield3131@gmail.com]
