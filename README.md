@@ -9,12 +9,16 @@ This is a **Dice Roll Simulator** built as a capstone project to showcase my ski
  Roll a dice with the click of a button
  Display the rolled number dynamically
  Track previous rolls in a list
+ Name Generator
+ Landing Page
+ 
 
 ##  Built With
  **HTML** – For structuring the webpage
 **CSS & Bootstrap** – For styling and responsive design
 **JavaScript** – For handling dice roll logic and UI updates
  **GitHub Pages** – For deploying the project
+ **Fetch API**
 
 ##  How to Use
 1. Select a **dice type** (D6 or D20) from the dropdown.
